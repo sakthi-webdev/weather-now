@@ -32,6 +32,19 @@ Welcome to the WeatherNow App! This project provides current weather conditions 
 - Animated SVG Weather Icons - Beautifully crafted weather icons
 
 
+### Contributing
+
+Contributions are welcome! Please fork the repository and create a pull request with your changes.
+
+### License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+### Acknowledgments
+
+Special thanks to the creators of the libraries and tools used in this project.
+
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.
@@ -53,15 +66,3 @@ Make sure you have the following installed on your machine:
  - Replace with your actual API key.
  - Start the development server: npm run dev.
  - Open your web browser and visit http://localhost:5173 to access the WeatherNow App.
-
-### Contributing
-
-Contributions are welcome! Please fork the repository and create a pull request with your changes.
-
-### License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-### Acknowledgments
-
-Special thanks to the creators of the libraries and tools used in this project.
