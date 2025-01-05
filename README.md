@@ -32,15 +32,15 @@ Welcome to the WeatherNow App! This project provides current weather conditions 
 - Animated SVG Weather Icons - Beautifully crafted weather icons
 
 
-### Contributing
+## Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-### License
+## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-### Acknowledgments
+## Acknowledgments
 
 Special thanks to the creators of the libraries and tools used in this project.
 
