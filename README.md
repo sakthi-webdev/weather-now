@@ -49,14 +49,14 @@ Special thanks to the creators of the libraries and tools used in this project.
 
 Follow these instructions to get a copy of the project up and running on your local machine.
 
-### Prerequisites
+## Prerequisites
 
 Make sure you have the following installed on your machine:
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
 - [npm](https://www.npmjs.com/) (v6 or higher)
 
-### Installation
+## Installation
 
  **Clone the repository**:
    ```bash
