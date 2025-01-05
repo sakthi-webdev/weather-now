@@ -64,19 +64,19 @@ function WeatherCard() {
               <div className='flex flex-col mt-5 text-left w-1/4 font-oswald font-light justify-start'>
                 <div className='text-xl'>{today}</div>
                 <div className='text-xl'>{day}/{month}/{year}</div>
-                <div className='my-2'>Wind<img className='w-8 h-8' src={`src/assets/icons/wind.svg`} />{weatherData.wind.speed}km/h</div>
+                <div className='my-2'>Wind<img className='w-8 h-8' src={`../assets/icons/wind.svg`} />{weatherData.wind.speed}km/h</div>
                 <div className='flex flex-col mb-2'>Humidity {weatherData.main.humidity}%</div>
               </div>
               <div className='flex flex-row w-3/4 justify-end'>
                 <div className='mr-5 -mt-10 md:-mt-5'>
-                  {icon && <img className='w-28 h-28 md:w-48 md:h-48 mt-28 md:mt-10' src={`src/assets/icons/${icon}`} alt={weatherData.weather[0].description} />}
+                  {icon && <img className='w-28 h-28 md:w-48 md:h-48 mt-28 md:mt-10' src={`../assets/icons/${icon}`} alt={weatherData.weather[0].description} />}
                   <p className='-mt-5 md:-mt-10 font-oswald font-light md:text-2xl'>{weatherData.weather[0].main}</p>
                 </div>
                 <div className='mt-20 md:mx-10'><h2 className='text-6xl md:text-8xl font-bebas'>{parseInt(weatherData.main.temp)}<sup className='text-4xl md:text-6xl'>&deg;</sup>C</h2>
                 </div>
               </div>
             </div>
-          </div>)) : (<div className='flex justify-center'><img className='h-48 w-48' src='src/assets/img/search-city.png' /></div>)}
+          </div>)) : (<div className='flex justify-center'><img className='h-48 w-48' src='../assets/img/search-city.png' /></div>)}
       </div>
 
     </>

@@ -4,8 +4,8 @@ import tailwindcss from 'tailwindcss';
 
 // https://vite.dev/config/
 export default defineConfig({
+  base: "/weather-now/",
   plugins: [react(), tailwindcss({
     config: './tailwind.config.js',
   })],
-  base: "/weather-now/"
 });
