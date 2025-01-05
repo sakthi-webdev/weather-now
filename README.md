@@ -54,14 +54,14 @@ Make sure you have the following installed on your machine:
  - Start the development server: npm run dev.
  - Open your web browser and visit http://localhost:5173 to access the WeatherNow App.
 
-## Contributing
+### Contributing
 
 Contributions are welcome! Please fork the repository and create a pull request with your changes.
 
-## License
+### License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+### Acknowledgments
 
 Special thanks to the creators of the libraries and tools used in this project.

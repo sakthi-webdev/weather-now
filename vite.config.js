@@ -6,5 +6,6 @@ import tailwindcss from 'tailwindcss';
 export default defineConfig({
   plugins: [react(), tailwindcss({
     config: './tailwind.config.js',
+    base: "/weather-now/",
   })],
 })
